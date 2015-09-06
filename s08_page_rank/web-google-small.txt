@@ -2,6 +2,7 @@
 # Webgraph from the Google programming contest, 2002
 # Nodes: 875713 Edges: 5105039
 # FromNodeId	ToNodeId
+# Note: taken only fraction of the original file.
 0	11342
 0	824020
 0	867923
