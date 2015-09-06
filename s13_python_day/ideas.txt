@@ -1,0 +1,23 @@
+Starters -----------------------------------------
+- print n^2
+- print reverse of input
+
+Easy -----------------------------------------
+- count number of characted in a string
+    - inp: a abraka
+    - out: 3
+- print lower integer part of sqrt(n)
+
+Moderate -----------------------------------------
+- compute (n choose k):
+    - inp: 4 2
+    - out: 6
+-
+
+Difficult -----------------------------------------
+- are connected in directed graph?
+    - inp: 5 1 4 1-2 3-4 2-4 1-5 4-3
+-
+
+
+Tough -----------------------------------------

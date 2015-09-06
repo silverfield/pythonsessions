@@ -1,0 +1,6 @@
+Takoradi 1,4
+CapeCoast 0,2,3,4
+Accra 1,3
+Koforidua 1,2,4
+Kumasi 0,1,3,5
+Tamale 4
